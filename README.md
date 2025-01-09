@@ -10,9 +10,9 @@ A mobile application that allows users to solve Sudoku puzzles effortlessly. Bui
 
 ## Screenshots
 <!-- Add images or links to screenshots here -->
-![Screenshot 1](https://drive.google.com/file/d/1PjE8ZPviaZRRccOdYAbgE6L2LXWnaB_B/view?usp=drive_link)
+![Screenshot 1](https://github.com/shubhangguntaka/Sudoku-Solver-using-Android-Studio/blob/master/Screenshots/Screenshot_20250109_231130.jpg/300x600.png?text=Screenshot+1)
 ![Screenshot 2](https://github.com/shubhangguntaka/Sudoku-Solver-using-Android-Studio/blob/master/Screenshots/Screenshot_20250109_231151.jpg)
-![Screenshot 3](https://github.com/shubhangguntaka/Sudoku-Solver-using-Android-Studio/blob/master/Screenshots/Screenshot_20250109_231155.jpg?raw=true)
+![Screenshot 3](https://github.com/shubhangguntaka/Sudoku-Solver-using-Android-Studio/blob/master/Screenshots/Screenshot_20250109_231155.jpg)
 
 ## Installation
 To try the app:
