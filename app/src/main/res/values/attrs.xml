@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SudokuBoard">
+        <attr name="boardcolor" format="color"/>
+        <attr name="cellFillColor" format="color"/>
+        <attr name="cellsHighlightColor" format="color"/>
+        <attr name="letterColor" format="color"/>
+        <attr name="letterColorsolve" format="color"/>
+        letterColor=a.getInteger(R.styleable.SudokuBoard_letterColor,0);
+        letterColorsolve=a.getInteger(R.styleable.SudokuBoard_letterColorsolve,0);
+    </declare-styleable>
+</resources>
